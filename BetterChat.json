@@ -1,0 +1,117 @@
+[
+  {
+    "GroupName": "default",
+    "Priority": 1,
+    "Title": {
+      "Text": "[NOOB]",
+      "Color": "#55aaff",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": true
+    },
+    "Username": {
+      "Color": "#55aaff",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+    {
+    "GroupName": "grub",
+    "Priority": 1,
+    "Title": {
+      "Text": "[GRUB]",
+      "Color": "#008000",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": true
+    },
+    "Username": {
+      "Color": "#008000",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+    {
+    "GroupName": "degen",
+    "Priority": 1,
+    "Title": {
+      "Text": "[DEGEN]",
+      "Color": "#cc8899",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": true
+    },
+    "Username": {
+      "Color": "#cc8899",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+    {
+    "GroupName": "BOI",
+    "Priority": 1,
+    "Title": {
+      "Text": "[BOI]",
+      "Color": "#fb94dc",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": true
+    },
+    "Username": {
+      "Color": "#fb94dc",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "admin",
+    "Priority": 0,
+    "Title": {
+      "Text": "[ADMIN]",
+      "Color": "#ff0000",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "#ff0000",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title}: {Message}",
+      "Console": "{Title}: {Message}"
+    }
+  }
+]
